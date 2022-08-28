@@ -1,0 +1,38 @@
+body{
+    background-color: #011627;
+
+    padding: 50px;
+    color: azure;
+    font-family: nunito;
+    text-align: center;
+}
+#d1{
+    margin-top: 50px;
+    margin-bottom:0px;
+    margin-left: 0;
+    margin-right: 0;
+}
+#d2{
+    margin-top: 50px;
+    font-size: 25px;
+}
+#h1{
+    font-size: 80px;
+    margin: 10px;
+    padding: 0;
+}
+#h2{
+    font-size: 90px;
+    margin: 10px;
+    padding: 0;
+}
+#ps1{
+    font-size: 30px;
+}
+#h4{
+    margin-bottom: 160px;
+}
+#f{
+    font-size: 15px;
+    color: #FF895C;
+}
