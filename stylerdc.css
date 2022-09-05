@@ -1,0 +1,30 @@
+body{
+    background-color: #011627;
+    color: whitesmoke;
+}
+.pay{
+    text-align: center;
+    font-family: Nunito;
+    font-size: 1.5rem;
+    margin: auto;
+    padding: auto;
+}
+table, th, td{
+    padding: 5px;
+    border: 2px solid darkslategray;
+    border-collapse: collapse;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+th, td{
+    width: 250px;
+    font-weight: 600;
+}
+th{
+    background-color: #fcc648;
+    color: #011627;
+    font-weight: 800;
+}
