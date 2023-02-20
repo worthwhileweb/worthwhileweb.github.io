@@ -1,4 +1,4 @@
-export default [
+[
   {
     id: "rec6d6T3q5EBIdCfD",
     name: "Best of Paris in 7 Days Tour",
